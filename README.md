@@ -11,7 +11,7 @@
 
 **Análise de Densenvolvimento de Sistemas** \
 [**UNINTER**](https://www.uninter.com) • Nivel: Tecnólogo\
-Linguagens & Tecnologias: `Python`, `Html5`\
+Linguagens & Tecnologias: `Python`, `Neo4j`, `JavaScript`, `CSS`, `Html5`, `Metodologias Ágeis`, `IA`, `Cloud Computing`\
 <br/>
 
 [<img align="left" height="100px" width="150px" alt="Warpnet" src="https://github.com/user-attachments/assets/57ff7e31-f1bb-4eca-a41d-77c6ba99663f"/>](https://fieb.edu.br/curso/informatica/)
